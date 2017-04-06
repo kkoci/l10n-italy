@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<openerp>
+<odoo>
     <data>
         
         <!--
@@ -56,4 +56,4 @@
         <menuitem id="menu_central_journal_report_action" parent="account.menu_finance_legal_statement" action="central_journal_report_action"/>
 
     </data>
-</openerp>
+</odoo>

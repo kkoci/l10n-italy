@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<openerp>
+<odoo>
     <data noupdate="1"> 
         <record id="ir_header_central_journal_report" model="ir.header_webkit">
             <field name="footer_html"></field>
@@ -104,4 +104,4 @@
             <field eval="&quot;&quot;&quot;Central Journal Report&quot;&quot;&quot;" name="name"/>
         </record>
     </data>
-</openerp>
+</odoo>
